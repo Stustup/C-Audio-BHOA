@@ -931,7 +931,7 @@
     (pin "1" (uuid 71231e3a-8e6d-4a97-b9dd-0040d768ae8d))
     (pin "2" (uuid 4afcc7bc-93cf-43bd-a06f-2fa4413a8205))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "R605") (unit 1)
         )
@@ -971,7 +971,7 @@
     (pin "1" (uuid f99c1fb5-829e-427a-ab55-322ce539ec99))
     (pin "2" (uuid cf39eecf-0e5f-417a-bff1-68e70a278324))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "C603") (unit 1)
         )
@@ -1008,7 +1008,7 @@
     (pin "1" (uuid ad30eb1a-8131-4ef3-9663-9a0cc22e5eec))
     (pin "2" (uuid 332eb747-0d69-4182-8709-cab7d013b69f))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "C606") (unit 1)
         )
@@ -1054,7 +1054,7 @@
     (pin "3" (uuid 6dd0de2b-48a3-42a4-bff8-bf8ff9933360))
     (pin "6" (uuid 5d8ca06d-1de9-42ec-87d7-657a4bf326dd))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "U602") (unit 2)
         )
@@ -1094,7 +1094,7 @@
     (pin "1" (uuid caf723c2-eb7f-4949-a1f7-dbce9b926138))
     (pin "2" (uuid 44617710-e760-4d66-9537-1bb111684a86))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "C604") (unit 1)
         )
@@ -1131,7 +1131,7 @@
     (pin "1" (uuid 81ad1a52-1ee2-45e2-8359-a07577929fe7))
     (pin "2" (uuid 377bb592-82de-4fce-9983-5ead2e1f7421))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "R607") (unit 1)
         )
@@ -1170,7 +1170,7 @@
     )
     (pin "1" (uuid ea6bd025-d5ab-4719-8f84-95b070d7d98e))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "#PWR0606") (unit 1)
         )
@@ -1205,7 +1205,7 @@
     (pin "4" (uuid c5bd7258-fc8c-4ac9-ab11-5ed5c3d60870))
     (pin "8" (uuid 90ed22eb-ffc3-473f-b372-5be4d08280af))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "U601") (unit 2)
         )
@@ -1233,7 +1233,7 @@
     )
     (pin "1" (uuid 567c7bbf-d5cc-42db-84bd-9b2eb95eea97))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "#PWR0604") (unit 1)
         )
@@ -1273,7 +1273,7 @@
     (pin "1" (uuid 9d9a688d-0e3b-4946-a240-37dd59617517))
     (pin "2" (uuid 9d1c9ca1-d733-48d7-9ba0-71ceceb01795))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "R602") (unit 1)
         )
@@ -1312,7 +1312,7 @@
     )
     (pin "1" (uuid dd22d44d-bb4e-4ea2-84a5-dc947d2ac8e9))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "#PWR0602") (unit 1)
         )
@@ -1347,7 +1347,7 @@
     (pin "4" (uuid 2e866127-32df-4ac7-9215-a1a87bb7ee8f))
     (pin "8" (uuid 62e3552f-f4d9-4cbe-940f-38966a79b910))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "U601") (unit 1)
         )
@@ -1376,7 +1376,7 @@
     (pin "1" (uuid 263a2411-9cb8-4ae9-81b1-2475c143740d))
     (pin "2" (uuid a33bfcb0-4ba8-4d0f-9ebe-a1e6767043ef))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "R604") (unit 1)
         )
@@ -1416,7 +1416,7 @@
     (pin "1" (uuid e5dad18b-7867-4275-aa14-56e91f022746))
     (pin "2" (uuid e9373151-3f6a-41ce-b69e-729cb0ea77ad))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "C605") (unit 1)
         )
@@ -1459,7 +1459,7 @@
     (pin "4" (uuid bdac65da-e316-4043-91e6-15e4f5927e74))
     (pin "8" (uuid 5b00f2a4-35c8-48c3-bbdf-0f464ebc3705))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "U601") (unit 3)
         )
@@ -1488,7 +1488,7 @@
     (pin "1" (uuid 53519661-a574-4f31-9fdd-640eaa2e4cf0))
     (pin "2" (uuid cce544e2-6e5c-4a99-8901-b5f608b56a9b))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "C602") (unit 1)
         )
@@ -1524,7 +1524,7 @@
     )
     (pin "1" (uuid e54056bf-c475-4627-8afe-ca9eb6f0fe76))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "#PWR0601") (unit 1)
         )
@@ -1564,7 +1564,7 @@
     (pin "1" (uuid ae25b048-f7d5-4e08-95f5-14dbc447fcd3))
     (pin "2" (uuid f20e2ffe-9ccd-401c-8cbd-e1bd9e6478dd))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "R603") (unit 1)
         )
@@ -1604,7 +1604,7 @@
     (pin "1" (uuid 9bc9eefc-c4d3-4470-9f7b-bfaafbbeb053))
     (pin "2" (uuid 79893b5e-e796-41d9-b407-039ee9611a3f))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "R606") (unit 1)
         )
@@ -1644,7 +1644,7 @@
     (pin "1" (uuid 07e4c552-cc41-4668-bae5-66f0b9c53540))
     (pin "2" (uuid e35d383f-1949-4012-b74f-602e5098a5c2))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "C601") (unit 1)
         )
@@ -1690,7 +1690,7 @@
     (pin "3" (uuid 4642cfae-5640-4d31-86c7-2a884282d28d))
     (pin "6" (uuid 4437cdf6-2cd1-4574-a0e0-5b7c8980bbe4))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "U602") (unit 1)
         )
@@ -1729,7 +1729,7 @@
     )
     (pin "1" (uuid cc6f7f49-febc-411c-9f0e-5fa54ee5e712))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "#PWR0603") (unit 1)
         )
@@ -1766,7 +1766,7 @@
     (pin "1" (uuid 21f3c293-d846-49bb-8fa4-d9f079ee0209))
     (pin "2" (uuid 9f4f8927-c0e3-4bbb-af40-9f9346e5c2c0))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "R601") (unit 1)
         )

@@ -245,7 +245,7 @@
     (pin "1" (uuid a820e9f9-7e9f-4724-817e-f85a64ab194f))
     (pin "2" (uuid 39b4d0cb-ca96-46c8-913b-8554217b8e28))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "C2") (unit 1)
         )
@@ -291,7 +291,7 @@
     (pin "1" (uuid 9df7043b-5738-47ef-978c-a1060599bb81))
     (pin "2" (uuid 0c1ac3b4-6af9-41d0-89b8-d61585b93168))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "R8") (unit 1)
         )
@@ -336,7 +336,7 @@
     )
     (pin "1" (uuid 2beb2125-9d69-4949-84b0-b15023db2a00))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "#PWR02") (unit 1)
         )
@@ -382,7 +382,7 @@
     (pin "1" (uuid 699d7ba4-5dac-4ab7-ac9f-7be82c30b7cd))
     (pin "2" (uuid cc048d10-2363-4b87-97ef-e18596b2d0ab))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "R1") (unit 1)
         )
@@ -428,7 +428,7 @@
     (pin "1" (uuid 06ff0015-d26b-484f-a60b-8b8d0fa38de6))
     (pin "2" (uuid 8955da28-690f-4c55-8b97-7938c16577aa))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "C4") (unit 1)
         )
@@ -474,7 +474,7 @@
     (pin "1" (uuid 804eceef-34c2-443f-a8b8-d6edefcdf356))
     (pin "2" (uuid 717316e5-26c8-4431-8557-ba0f3748b6c6))
     (instances
-      (project "NCBalOPHeadAmp"
+      (project "BHOA"
         (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89/9b3f0edf-772b-4268-8a4e-69c223c7fd58"
           (reference "C3") (unit 1)
         )
