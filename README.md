@@ -1,3 +1,2 @@
-# This is a markdown title
-
-This is a markdown paragraph.
+# C Audio BHOA
+The Balanced Headphone Operational Amplifier
