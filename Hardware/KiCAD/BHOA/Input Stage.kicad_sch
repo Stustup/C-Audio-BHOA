@@ -2,7 +2,14 @@
 
   (uuid 236971bd-2f83-458e-be0a-59d0063eb9cb)
 
-  (paper "A5")
+  (paper "A4")
+
+  (title_block
+    (title "BHOA")
+    (rev "0.1")
+    (company "C Audio")
+    (comment 3 "Balanced Headphone Operationsal Amplifier")
+  )
 
   (lib_symbols
     (symbol ".OpAmp:LME49724" (in_bom yes) (on_board yes)

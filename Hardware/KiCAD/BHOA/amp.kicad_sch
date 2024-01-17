@@ -2,13 +2,14 @@
 
   (uuid 26201ed0-467d-4ad4-adaf-c027b971c927)
 
-  (paper "A5")
+  (paper "A4")
 
   (title_block
-    (title "NCBalOPHeadAmp")
+    (title "BHOA")
     (date "2023-10-31")
     (rev "0.1")
-    (company "ncAudio")
+    (company "C Audio")
+    (comment 3 "Balanced Headphone Operationsal Amplifier")
     (comment 4 "Paralleled OPAMP outputs for more power and lower distortion")
   )
 

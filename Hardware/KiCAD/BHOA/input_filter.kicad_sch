@@ -2,7 +2,14 @@
 
   (uuid 39c6dc32-3cb2-40b4-b2fb-320d50e4fe7f)
 
-  (paper "A5")
+  (paper "A4")
+
+  (title_block
+    (title "BHOA")
+    (rev "0.1")
+    (company "C Audio")
+    (comment 3 "Balanced Headphone Operationsal Amplifier")
+  )
 
   (lib_symbols
     (symbol "Device:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
