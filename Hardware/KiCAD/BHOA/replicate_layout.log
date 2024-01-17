@@ -1,0 +1,55 @@
+11-15 15:23:04 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 392:Plugin executed on: 'win32'
+11-15 15:23:04 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 393:Plugin executed with python version: '3.9.16 (main, Aug  8 2023, 05:38:28) [MSC v.1936 64 bit (AMD64)]'
+11-15 15:23:04 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 394:KiCad build version: 7.0.7
+11-15 15:23:04 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 395:Plugin version: 2.1.3
+11-15 15:23:04 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 396:Frame repr: <wx._core.Frame object at 0x000001D384D42EE0>
+11-15 15:23:04 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 420:Preparing replicator with U701 as a reference
+11-15 15:23:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 117:getting a list of all footprints on board
+11-15 15:23:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 136:Footprint G*** does not have Sheetfile property, it will not be replicated. Most likely it is only in layout
+11-15 15:23:04 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 468:source anchor footprint is 'U701'
+Located on: ['Input Stage Instrumentation Amp R']
+With filenames: ['Input Stage.kicad_sch']
+With sheet_id:['Input Stage Instrumentation Amp R']
+11-15 15:23:04 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 475:Corresponding footprints are 
+[('U701', ['Input Stage Instrumentation Amp R']), ('U601', ['Input Stage Instrumentation Amp L'])]
+11-15 15:23:04 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 487:Showing dialog
+11-15 15:23:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'Input Stage Instrumentation Amp R', file:'Input Stage.kicad_sch'
+11-15 15:23:04 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['Input Stage Instrumentation Amp L']]
+11-15 15:23:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['Input Stage Instrumentation Amp R']
+11-15 15:23:05 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+11-15 15:23:05 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 493:Toolbar position: wx.Point(2338, 125)
+11-15 15:23:05 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 498:Dialog position: wx.Point(1899, 125)
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'Input Stage Instrumentation Amp R', file:'Input Stage.kicad_sch'
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['Input Stage Instrumentation Amp L']]
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 240:Replicating layout
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 240:Starting replication of sheets: [['Input Stage Instrumentation Amp L']]
+on level: ['Input Stage Instrumentation Amp R']
+with tracks=True, zone=True, text=True, text=True, intersecting=False, remove=False, locked footprints=False, group_only=False
+11-15 15:23:06 root 332:updating GUI message: 'Preparing for replication'
+11-15 15:23:06 root 337:updating GUI with: 0
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 310:Getting the list of source footprints
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 320:Getting the list of all the remaining footprints
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 327:Getting source tracks
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 331:Getting source zones
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:Getting source text items
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 339:Getting source drawing items
+11-15 15:23:06 root 332:updating GUI message: 'Replicating footprints'
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 806:Replicating footprints
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['Input Stage Instrumentation Amp L']
+11-15 15:23:06 root 337:updating GUI with: 93
+11-15 15:23:06 root 332:updating GUI message: 'Replicating tracks'
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 977:Replicating tracks
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 983:Replicating tracks on sheet ['Input Stage Instrumentation Amp L']
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['Input Stage Instrumentation Amp L'] :[('/Out_pre_R_-', '/Out_pre_L_-'), ('Net-(C706-Pad1)', 'Net-(C606-Pad1)'), ('/In_pre_R_-', '/In_pre_L_-'), ('Net-(R705-Pad2)', 'Net-(R605-Pad2)'), ('VCC', 'VCC'), ('/Out_pre_R_+', '/Out_pre_L_+'), ('Net-(U701B--)', 'Net-(U601B--)'), ('Net-(U701A--)', 'Net-(U601A--)'), ('Net-(R701-Pad1)', 'Net-(R601-Pad1)'), ('VEE', 'VEE'), ('Net-(C701-Pad1)', 'Net-(C601-Pad1)'), ('GND', 'GND'), ('/In_pre_R_+', '/In_pre_L_+')]
+11-15 15:23:06 root 332:updating GUI message: 'Replicating zones'
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1047:Replicating zones
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating zones on sheet ['Input Stage Instrumentation Amp L']
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['Input Stage Instrumentation Amp L'] :[('/Out_pre_R_-', '/Out_pre_L_-'), ('Net-(C706-Pad1)', 'Net-(C606-Pad1)'), ('/In_pre_R_-', '/In_pre_L_-'), ('Net-(R705-Pad2)', 'Net-(R605-Pad2)'), ('VCC', 'VCC'), ('/Out_pre_R_+', '/Out_pre_L_+'), ('Net-(U701B--)', 'Net-(U601B--)'), ('Net-(U701A--)', 'Net-(U601A--)'), ('Net-(R701-Pad1)', 'Net-(R601-Pad1)'), ('VEE', 'VEE'), ('Net-(C701-Pad1)', 'Net-(C601-Pad1)'), ('GND', 'GND'), ('/In_pre_R_+', '/In_pre_L_+')]
+11-15 15:23:06 root 332:updating GUI message: 'Replicating text'
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1136:Replicating text
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1143:Replicating text on sheet ['Input Stage Instrumentation Amp L']
+11-15 15:23:06 root 332:updating GUI message: 'Replicating drawings'
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1187:Replicating drawings
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1193:Replicating drawings on sheet ['Input Stage Instrumentation Amp L']
+11-15 15:23:06 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 256:Replication complete

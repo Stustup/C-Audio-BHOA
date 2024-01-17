@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Audio Connector")(type "KiCad")(uri "${KIPRJMOD}/Footprints/Audio Connector.pretty")(options "")(descr ""))
+)

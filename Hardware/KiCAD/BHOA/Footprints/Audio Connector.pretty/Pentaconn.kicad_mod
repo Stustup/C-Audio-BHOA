@@ -1,0 +1,95 @@
+(footprint "Pentaconn" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -14.7 unlocked) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 614b5f6f-05da-4c87-91bf-f747e1f21c81)
+  )
+  (fp_text value "Pentaconn" (at 0 -13.2 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp c6f90261-69e2-464a-ad17-6098c8775a1c)
+  )
+  (fp_text user "${REFERENCE}" (at 0 -11.7 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp f690daef-02e4-4383-a85b-a21b0d6900ca)
+  )
+  (fp_line (start -5.05 -8.3) (end -5.05 -3.3)
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp 257547e5-d7e0-4174-82a9-ab2b415c68a8))
+  (fp_line (start -5.05 -3.3) (end -4.2 -3.3)
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp e115ef6a-147e-49ff-ade0-401ad939fdc9))
+  (fp_line (start -4.2 -10.5) (end -4.2 -8.3)
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp fe42be2c-ce45-454b-a7dd-6ff52d6cbe08))
+  (fp_line (start -4.2 -8.3) (end -5.05 -8.3)
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp 70b57c1f-d430-4b6d-b75c-d10ec55dd55b))
+  (fp_line (start -4.2 -3.3) (end -4.2 8.3)
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp 56176d5d-e821-4e14-891a-116e43901fbb))
+  (fp_line (start -4.2 8.3) (end -3.3 8.3)
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp 76c24d4c-cf51-455a-af29-3cbc43fe6875))
+  (fp_line (start -3.3 8.3) (end -3.3 11.8)
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp 449b0a24-7989-4dd9-bdb6-295f6232cbc8))
+  (fp_line (start -3.3 8.3) (end 3.3 8.3)
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp c9c846f7-1ea8-4314-a359-362370972d5f))
+  (fp_line (start -3.3 11.8) (end 3.3 11.8)
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp e6c0ffa6-9248-4e26-9d48-0830be51e6f4))
+  (fp_line (start 3.3 8.3) (end 4 8.3)
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp 99050897-657a-44e3-9547-a889099d749f))
+  (fp_line (start 3.3 11.8) (end 3.3 8.3)
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp eb5f1214-ea22-49d0-948f-14e849a952de))
+  (fp_line (start 4 -10.5) (end -4.2 -10.5)
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp ab2e428f-074b-49e1-ba57-7216f384d3e2))
+  (fp_line (start 4 -8.3) (end 4 -10.5)
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp e9e0ad1e-ee7e-4961-93fb-eafb6620967d))
+  (fp_line (start 4 -3.3) (end 4.85 -3.3)
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp 03b619ba-6952-4439-9bb6-5420bee1ec0c))
+  (fp_line (start 4 8.3) (end 4 -3.3)
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp eeb041c8-166e-41bd-9e4d-647f56e5b0f9))
+  (fp_line (start 4.85 -8.3) (end 4 -8.3)
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp 16c8f2b2-b583-42ef-830e-c7bfb3ed3602))
+  (fp_line (start 4.85 -3.3) (end 4.85 -8.3)
+    (stroke (width 0.12) (type default)) (layer "F.SilkS") (tstamp c5658e54-79a5-49f8-ba6e-0f2da9c0ac7b))
+  (pad "G" thru_hole oval (at -3.5 6.55) (size 1.1 1.8) (drill oval 0.6 1.3) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.5) (tstamp 17043a41-042f-4f09-89a4-0882af1c25d0))
+  (pad "G" thru_hole oval (at 3.3 6.55) (size 1.1 1.8) (drill oval 0.6 1.3) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.5) (tstamp a436cf17-324b-46f7-a2ae-fb069703fe20))
+  (pad "L+" thru_hole oval (at -2.5 -8.8 90) (size 1.1 1.8) (drill oval 0.6 1.3) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.5) (tstamp 16e7e5a8-5e27-4000-87d9-a12b34fe24f6))
+  (pad "L+" thru_hole oval (at 2.5 -8.8 90) (size 1.1 1.8) (drill oval 0.6 1.3) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.5) (tstamp 6ffa791f-2d11-4721-8a17-01f786cdd8b1))
+  (pad "L-" thru_hole oval (at -3.5 -1.06) (size 1.1 1.8) (drill oval 0.6 1.3) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.5) (tstamp 5d677281-7469-429f-b290-a462fc8991e5))
+  (pad "L-" thru_hole oval (at 3.3 -1.06) (size 1.1 1.8) (drill oval 0.6 1.3) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.5) (tstamp 6129f31e-6281-4b2b-b277-b0a6a79417ae))
+  (pad "R+" thru_hole oval (at -3.5 1.48) (size 1.1 1.8) (drill oval 0.6 1.3) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.5) (tstamp 4c573f0e-ccb8-4e00-a39a-724a2c740ea6))
+  (pad "R+" thru_hole oval (at 3.3 1.48) (size 1.1 1.8) (drill oval 0.6 1.3) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.5) (tstamp 638ad619-b609-4cea-b882-21cacca790a4))
+  (pad "R-" thru_hole oval (at -3.5 4.02) (size 1.1 1.8) (drill oval 0.6 1.3) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.5) (tstamp 634b58d4-f61c-47b1-9d42-3b45395e4935))
+  (pad "R-" thru_hole oval (at 3.3 4.02) (size 1.1 1.8) (drill oval 0.6 1.3) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.5) (tstamp f73a5ab5-653b-4700-9ecc-11f2a700558d))
+  (pad "S1" thru_hole oval (at 4.18 -5.6) (size 1.1 1.8) (drill oval 0.6 1.3) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.5) (tstamp bbd089a7-32e5-49b4-85d4-d2324f234806))
+  (pad "S2" thru_hole oval (at -4.37 -5.6) (size 1.1 1.8) (drill oval 0.6 1.3) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.5) (tstamp a713ada5-fe91-4bd5-8f49-457036523e4c))
+  (group "" (id 81a206e6-8666-4320-883e-0e50577c0239)
+    (members
+      03b619ba-6952-4439-9bb6-5420bee1ec0c
+      16c8f2b2-b583-42ef-830e-c7bfb3ed3602
+      257547e5-d7e0-4174-82a9-ab2b415c68a8
+      449b0a24-7989-4dd9-bdb6-295f6232cbc8
+      56176d5d-e821-4e14-891a-116e43901fbb
+      70b57c1f-d430-4b6d-b75c-d10ec55dd55b
+      76c24d4c-cf51-455a-af29-3cbc43fe6875
+      99050897-657a-44e3-9547-a889099d749f
+      ab2e428f-074b-49e1-ba57-7216f384d3e2
+      c5658e54-79a5-49f8-ba6e-0f2da9c0ac7b
+      c9c846f7-1ea8-4314-a359-362370972d5f
+      e115ef6a-147e-49ff-ade0-401ad939fdc9
+      e6c0ffa6-9248-4e26-9d48-0830be51e6f4
+      e9e0ad1e-ee7e-4961-93fb-eafb6620967d
+      eb5f1214-ea22-49d0-948f-14e849a952de
+      eeb041c8-166e-41bd-9e4d-647f56e5b0f9
+      fe42be2c-ce45-454b-a7dd-6ff52d6cbe08
+    )
+  )
+)
