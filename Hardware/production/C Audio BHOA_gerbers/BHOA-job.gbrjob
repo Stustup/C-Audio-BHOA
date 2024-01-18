@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "7.0.7"
     },
-    "CreationDate": "2024-01-11T22:16:13+01:00"
+    "CreationDate": "2024-01-18T16:33:32+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "NCBalOPHeadAmp",
-      "GUID": "4e434261-6c4f-4504-9865-6164416d702e",
+      "Name": "BHOA",
+      "GUID": "42484f41-2e6b-4696-9361-645f70636258",
       "Revision": "rev?"
     },
     "Size": {
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.0,
-      "PadToTrack": 0.0,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.25,
       "TrackToRegion": 0.5,
@@ -33,67 +33,67 @@
     },
     {
       "Layers": "Inner",
-      "PadToPad": 0.0,
-      "PadToTrack": 0.0,
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.5,
+      "MinLineWidth": 0.25,
       "TrackToRegion": 0.5,
       "RegionToRegion": 0.5
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "NCBalOPHeadAmp-F_Cu.gbr",
+      "Path": "BHOA-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "NCBalOPHeadAmp-In1_Cu.gbr",
+      "Path": "BHOA-In1_Cu.gbr",
       "FileFunction": "Copper,L2,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "NCBalOPHeadAmp-In2_Cu.gbr",
+      "Path": "BHOA-In2_Cu.gbr",
       "FileFunction": "Copper,L3,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "NCBalOPHeadAmp-B_Cu.gbr",
+      "Path": "BHOA-B_Cu.gbr",
       "FileFunction": "Copper,L4,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "NCBalOPHeadAmp-F_Paste.gbr",
+      "Path": "BHOA-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "NCBalOPHeadAmp-B_Paste.gbr",
+      "Path": "BHOA-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "NCBalOPHeadAmp-F_Silkscreen.gbr",
+      "Path": "BHOA-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "NCBalOPHeadAmp-B_Silkscreen.gbr",
+      "Path": "BHOA-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "NCBalOPHeadAmp-F_Mask.gbr",
+      "Path": "BHOA-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "NCBalOPHeadAmp-B_Mask.gbr",
+      "Path": "BHOA-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "NCBalOPHeadAmp-Edge_Cuts.gbr",
+      "Path": "BHOA-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
