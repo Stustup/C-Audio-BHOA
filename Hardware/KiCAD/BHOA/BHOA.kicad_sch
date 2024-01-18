@@ -3981,6 +3981,30 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 154.94 193.675 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid f362c8d3-cf15-4bbc-85bb-93b9f125da7c)
+    (property "Reference" "H5" (at 158.115 192.405 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (at 158.115 194.945 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_3.7mm" (at 154.94 193.675 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 154.94 193.675 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "BHOA"
+        (path "/c3692abe-17e6-4ebd-8bee-103b4ec28f89"
+          (reference "H5") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 81.28 182.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f3a8da6c-e4be-4785-abec-c7ab74392d1d)
