@@ -20,3 +20,5 @@ The Amp consists of a simple differential input filter for very high frequency n
 
 ## TODO
 
+- Improve stability of current amplification. Maybe high value resistors to ground to give a reference for the inputs. Also cascaded topology might be a better CA stage as per [SBOA553A](https://www.ti.com/lit/ab/sboa553a/sboa553a.pdf?ts=1741260128432)
+- Improve output protection. Firstly ADD some DC protection and improve the circuit for setting delay time.
