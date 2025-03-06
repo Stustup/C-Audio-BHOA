@@ -16,7 +16,7 @@ A high powered differential headphone amp with a focus on modularity and prototy
 
 ## Schematic
 
-The Amp consists of a simple differential input filter for very high frequency noise, an instrumential amplifier input stage for differential voltage amplification and 8 paralelled opamps in buffer topology per channel (of which there are 4 for differential amplification). Furthermore the outpput is protected via muting relays driven by a mosfet and a turn on timer for a startup delay. 
+The Amp consists of a simple differential input filter for very high frequency noise, an instrumential amplifier input stage for differential voltage amplification and 8 paralelled opamp sections in buffer topology per channel (of which there are 4 for differential amplification for a total of 16 opamps(!!!). (Mental, I know)[http://www.diyaudio.com/archive/blogs/alexcp/attachments/1049d1368388175-ne5532-power-amplifier-ne553205.jpg]). Furthermore the outpput is protected via muting relays driven by a mosfet and a turn on timer for a startup delay. 
 
 ## TODO
 
