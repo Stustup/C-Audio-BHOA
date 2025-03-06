@@ -2,11 +2,7 @@
 
 A high powered differential headphone amp with a focus on modularity and prototyping. Inspired by the Schiit Audio Magni Heresy.
 
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://github.com/Stustup/C-Audio-BHOA/blob/332225ad11ce5fdea545c27f90542c3ff10ec40b/DSCF0732.JPG" height="300px">
-  </a>
-</p>
+![Picture of the PCB](DSCF0732.JPG)
 
 ## Features
 
@@ -16,11 +12,7 @@ A high powered differential headphone amp with a focus on modularity and prototy
 
 ## Schematic
 
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://github.com/Stustup/C-Audio-BHOA/blob/main/Schematic.png" height="300px">
-  </a>
-</p>
+![Schematic of the Amp](Schematic.png)
 
 The Amp consists of a simple differential input filter for very high frequency noise, an instrumential amplifier input stage for differential voltage amplification and 8 paralelled opamp sections in buffer topology per channel (of which there are 4 for differential amplification for a total of 16 opamps(!!!). [Mental, I know](http://www.diyaudio.com/archive/blogs/alexcp/attachments/1049d1368388175-ne5532-power-amplifier-ne553205.jpg)). Furthermore the output is protected via muting relays driven by a mosfet and a turn on timer for a startup delay. 
 
