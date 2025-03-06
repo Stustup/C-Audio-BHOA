@@ -4,7 +4,7 @@ A high powered differential headphone amp with a focus on modularity and prototy
 
 <p align="center">
   <a href="https://github.com">
-    <img src="https://github.com/Stustup/C-Audio-BHOA/blob/main/DSCF0732.JPG" height="300px">
+    <img src="https://github.com/Stustup/C-Audio-BHOA/blob/332225ad11ce5fdea545c27f90542c3ff10ec40b/DSCF0732.JPG" height="300px">
   </a>
 </p>
 
