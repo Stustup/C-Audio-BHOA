@@ -15,6 +15,7 @@ A high powered differential headphone amp with a focus on modularity and prototy
 ![Schematic of the Amp](Schematic.png)
 
 The Amp consists of a simple differential input filter for very high frequency noise, an instrumential amplifier input stage for differential voltage amplification and 8 paralelled opamp sections in buffer topology per channel (of which there are 4 for differential amplification for a total of 16 opamps(!!!). [Mental, I know](http://www.diyaudio.com/archive/blogs/alexcp/attachments/1049d1368388175-ne5532-power-amplifier-ne553205.jpg)). Furthermore the output is protected via muting relays driven by a mosfet and a turn on timer for a startup delay. 
+The power supply is off board to stay in the limits of JLCPCBs cheap 100x100mm PCB service. It can range from +-5V to +-18V (or how much the Opamps will take).
 
 ## TODO
 
